@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Jave?style=flat-square&logo=Jave&logoColor=white"/></a>&nbsp 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ai-BT)
 ![Ai-BT's github stats](https://github-readme-stats.vercel.app/api?username=Ai-BT&show_icons=true)
