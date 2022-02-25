@@ -1,5 +1,5 @@
-
-
+<!-- header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Ai-BT&descAlignY=70">
 
 <!--badge -->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
