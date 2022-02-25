@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI%20Developer&fontAlignY=45&fontSize=40&height=150&desc=Ai-BT&descAlignY=70"></br></br>
 
 
-### 😀Tech Stack
+### 😀 Tech Stack
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -25,12 +25,12 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-###
+### 😄 Trophy
 <!--trophy-->
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ai-BT)
 ![Ai-BT's github stats](https://github-readme-stats.vercel.app/api?username=Ai-BT&show_icons=true)
 
-###
+### 👍 Most Language
 <!-- Most Language -->
 [![Ai-BT's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ai-BT&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Ai-BT)
 </div>
