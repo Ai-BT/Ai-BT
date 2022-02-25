@@ -1,9 +1,9 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI%20Developer&fontAlignY=45&fontSize=40&height=150&desc=Ai-BT&descAlignY=70">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI%20Developer&fontAlignY=45&fontSize=40&height=150&desc=Ai-BT&descAlignY=70"></br></br>
 
 <!--badge -->
-
 <!-- ML/DL-->
+<div align=center> 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&align="center")
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -23,7 +23,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
+</div>
 
 <!--trophy-->
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ai-BT)
