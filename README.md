@@ -16,7 +16,7 @@
 <!-- language -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%23ED8B00.svg?style=for-the-badge&logo=Kotlin&logoColor=blueviolet)
+![Kotlin](https://img.shields.io/badge/Kotlin-%black.svg?style=for-the-badge&logo=Kotlin&logoColor=blueviolet)
 
 <!-- frame work-->
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
