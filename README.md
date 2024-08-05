@@ -21,11 +21,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-
-### 😄 Trophy
-<!--trophy-->
-![Ai-BT's github stats](https://github-readme-stats.vercel.app/api?username=Ai-BT&show_icons=true)
-
 ### 👍 Languages
 <!-- Most Language -->
 [![Ai-BT's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ai-BT&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Ai-BT)
