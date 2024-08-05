@@ -3,6 +3,14 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI-BT&fontAlignY=45&fontSize=40&height=150&descAlignY=70"></br></br>
 
+</div>
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://ai-bt.tistory.com/category/AI">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+</a>
+
+</div>
 
 ### 😀 Tech Stack
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
