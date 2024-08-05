@@ -24,7 +24,6 @@
 
 ### 😄 Trophy
 <!--trophy-->
-![trophy](https://github-profile-trophy.vercel.app/?username=Ai-BT)
 ![Ai-BT's github stats](https://github-readme-stats.vercel.app/api?username=Ai-BT&show_icons=true)
 
 ### 👍 Languages
